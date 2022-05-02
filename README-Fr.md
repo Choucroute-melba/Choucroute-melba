@@ -1,4 +1,4 @@
-[english 🇬🇧](https://github.com/Choucroute-melba/Choucroute-melba/blob/master/README.md)
+[English 🇬🇧](https://github.com/Choucroute-melba/Choucroute-melba/blob/master/README.md)
 
 ## Bonjour 👋
 
