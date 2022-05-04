@@ -6,15 +6,20 @@ Je suis Vivien et je suis passionné de développement en particulier et d'infor
 
 ![codeImg.jpg](codeImg.png)
 
+- 🔭 Je travaille sur tout ce qui me passe sous la main
+- 🌱 J'apprends tout ce qui me passe sous la main
+- 👯 Je cherche à collaborer sur tout ce qui me fait envie
+- 👋 Je suis intéressé par Android, l'électronique, le développement Web, Qt, ...
+
 Cela va faire trois ans que j'ai commencé à programmer d'abord dans l'électronique puis dans le Web et enfin sur mobile avec Android.
 
 Afin de joindre l'utile à l'agréable et parce qu'il était temps pour moi de me lancer dans de vrais projets, je vous propose mes services en tant que développeur web / mobile.
 
 Par conséquent :...
 
-### Je donne vie à vous projets !
+### ⚡ Je donne vie à vos projets !
 
-- **Développement web**
+- **🌐 Développement web**
 
   Besoin d'un site web pour votre commerce ? Votre association ? ... ? Je suis là pour vous !
 
@@ -22,10 +27,10 @@ Par conséquent :...
   - HTML / CSS (of course)
   - [React.js](https://reactjs.org/)
   - [Next.js](https://nextjs.org/)
-- **Bots Discord**
+- **🤖 Bots Discord**
 
   Je crée des bots Discord pour enrichir votre serveur, animer votre communauté...
-- **Mobile ─ Android**
+- **📱 Mobile ─ Android**
 
   Allez à la rencontre de millions de personnes avec une application mobile !
 
@@ -33,7 +38,7 @@ Par conséquent :...
   - [Framework Android](https://developer.android.com/) / [JetPack](https://developer.android.com/jetpack)
   - [React native](https://reactnative.dev/)
 
-*─ Contactez-moi : vivien@netc.fr ─*
+_─ 📧 vivien@netc.fr  · 📍 Angers, France ─_
 
 <!--
 **Choucroute-melba/Choucroute-melba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

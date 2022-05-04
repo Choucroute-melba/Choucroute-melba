@@ -1,0 +1,14 @@
+Je vous propose mes services en tant que développeur web. 
+Vous avez besoin d'un site web vitrine pour votre commerce ? Pour représenter une association, un évènement ? ... ? 
+Vous êtes au bon endroit ! Bien que je ne soit pas un professionnel, j'ai les connaissances nécessaires pour donner vie à votre projet sur le web.
+
+─ Technologies préférées :
+ - Next.js
+ - React.js
+ - Autre ?
+
+─ Prix (à négocier) :
+- Pour un site vitrine classique avec petites possibilité d’interactions avec l'utilisateur (Ex. formulaire de contact) : 60 €
+- Pour les sites nécessitant plus d’interactions avec l'utilisateur / applications web : me contacter pour évaluer les besoins et les différentes fonctionnalités
+
+─ Contact : Messagerie Leboncoin puis mail ou autre  ·  Localisation : Angers, mais disponible dans toute la France grâce à la magie de l'internet !  ·  Règlement via Paypal ─
